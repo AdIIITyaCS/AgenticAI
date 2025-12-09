@@ -9,7 +9,7 @@ current_platform = platform.system()
 
 # Setup variables exactly as in JS
 History = []
-ai = genai.Client(api_key="AIzaSyAg_JFo1CiNGpxVCC0nzqGslTMCaIenamU")
+ai = genai.Client(api_key="your valid api")
 
 #  Tool create karte hai, jo kisi bhi terminal/ shell command ko execute kar sakta hai
 
